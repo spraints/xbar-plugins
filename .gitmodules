@@ -1,0 +1,3 @@
+[submodule "up-or-not"]
+	path = up-or-not
+	url = https://github.com/spraints/up-or-not
